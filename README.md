@@ -6,7 +6,7 @@
 网站内容包括：
 
 <div align="center">
-  <img src="https://img-blog.csdn.net/20150523223016746.png" width="60%" height="60%" />
+  <img src="https://img-blog.csdn.net/20150523223016746" width="60%" height="60%" />
 </div>
 
 

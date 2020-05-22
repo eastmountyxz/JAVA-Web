@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TrainDatabase"
+  id="myeclipse.1432388671732"
+  context-root="/TrainDatabase"
+  j2ee-spec="6.0"
+  archive="TrainDatabase.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

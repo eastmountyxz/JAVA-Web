@@ -1,16 +1,15 @@
 # JAVA网站基础代码
+该资源为作者CSDN博客JAVA网站系列，采用DAO、Java Bean和Servlet实现操作数据库，把链接数据库、数据库操作、前端界面显示分模块化实现。其中包括数据的CRUD增删改查操作，并通过一个常用的JSP网站前端模板界面进行描述。非常基础的Java网站资源，希望对您有所帮助~
 
-该资源为作者CSDN博客JAVA系列，主要讲解网页相关的基础知识，希望对您有所帮助~
 
-
-网站内容包括：
+网站主界面显示内容如下：
 
 <div align="center">
   <img src="https://img-blog.csdn.net/20150523223016746" width="60%" height="60%" />
 </div>
 
 
-参考文献：<br />
+参考作者的博客：<br />
 [Java+MyEclipse+Tomcat (一)配置过程及jsp网站开发入门](https://blog.csdn.net/Eastmount/article/details/45492065) <br />
 [Java+MyEclipse+Tomcat (二)配置Servlet及简单实现表单提交](https://blog.csdn.net/Eastmount/article/details/45536369) <br />
 [Java+MyEclipse+Tomcat (三)配置MySQL及查询数据显示在JSP网页中](https://blog.csdn.net/Eastmount/article/details/45653615) <br />

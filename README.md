@@ -5,6 +5,10 @@
 
 网站内容包括：
 
+<div align="center">
+  <img src="https://img-blog.csdn.net/20150523223016746.png" width="60%" height="60%" />
+</div>
+
 
 参考文献：
 [Java+MyEclipse+Tomcat (一)配置过程及jsp网站开发入门](https://blog.csdn.net/Eastmount/article/details/45492065)
